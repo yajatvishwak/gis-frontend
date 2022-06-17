@@ -18,4 +18,4 @@ https://github.com/NHCE-Software/gis-backend
 Screenshots: <br>
 
 Authentication <br>
-![Login](https://imgur.com/ifEZXju)
+![Login](https://imgur.com/ifEZXju.png)
